@@ -1,12 +1,9 @@
-package com.example.resttemplatepractice;
+package com.example.resttemplatepractice.service;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.example.resttemplatepractice.models.Product;
 import lombok.NoArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
-
-import java.util.List;
 
 @NoArgsConstructor
 public class RestTemplatePractice {

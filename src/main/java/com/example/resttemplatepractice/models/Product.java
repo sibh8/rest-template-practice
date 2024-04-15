@@ -1,4 +1,4 @@
-package com.example.resttemplatepractice;
+package com.example.resttemplatepractice.models;
 
 import lombok.Data;
 import lombok.ToString;

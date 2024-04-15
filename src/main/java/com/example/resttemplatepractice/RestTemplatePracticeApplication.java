@@ -1,5 +1,6 @@
 package com.example.resttemplatepractice;
 
+import com.example.resttemplatepractice.service.RestTemplatePractice;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
